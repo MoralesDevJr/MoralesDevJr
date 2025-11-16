@@ -16,5 +16,8 @@ I'm creating projects as a Back-end developer. I'm learning and practicing every
 </div>
 <br>
 <br>
-📧 Email: **felipemxavier@hotmail.com.br**  
-💼 LinkedIn: [Felipe Morales](https://www.linkedin.com/in/felipe-morales-devjr/)
+📧 Email: 
+**felipemxavier@hotmail.com.br** 
+<br> 
+💼 LinkedIn: 
+https://www.linkedin.com/in/felipe-morales-devjr/
